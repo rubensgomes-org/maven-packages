@@ -1,2 +1,2 @@
 # jvm-libs
-A GitHub Packages maven‑format mono repository to host my own Java or Kotlin libraries.
+A single GitHub repo used to host Rubens Java/Kotlin library packages built from other GitHub repositories.
